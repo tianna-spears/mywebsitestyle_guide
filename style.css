@@ -1,0 +1,35 @@
+.container {
+    display: block;
+    width: 800px; 
+    border: 1px solid rgb(227, 225, 234);
+    height: 200px;
+    margin: 25px 0;
+    padding: 25px; 
+  }
+
+
+.title:hover{
+    background-color:rgb(248, 185, 162);
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.a{
+    content:">";
+}
+
+.button{
+
+}
+
+.colors{
+    
+}
+
+.fonts{
+   
+}
+
+.text_styles{
+    
+}
